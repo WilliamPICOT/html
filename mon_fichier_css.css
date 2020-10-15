@@ -9,6 +9,12 @@
 
 }
 
+.min5{
+
+
+}
+
+
 .yellow {
 
     background-color: yellow;
@@ -17,3 +23,34 @@
   
   
   }
+
+  .blue {
+
+    background-color: #0099cc;
+    text-align: center;
+  
+  
+  
+  }
+
+  .pink {
+
+    background-color: pink;
+    text-align: center;
+  
+  
+  
+  }
+
+.rowspan {
+
+    background-color: ;
+
+}
+
+.midi {
+
+    background-color: #cc9900;
+    text-align: center;
+
+}
