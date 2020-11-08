@@ -1,18 +1,126 @@
-html {
-    background-color: green;
-    font-size: 20px;
-  }
-  
-  ul {
-    background: red;
-    padding: 10px;
-    border: 1px solid black;
-  }
-  
-  li {
-    margin-left: 20px;
+   /* CODE CSS William ( Emploi Du Temps ) */
+
+
+.time {
+  border: -1px;
+  vertical-align: top;
+  position: relative;
+  top: 0px;
+  font-weight:bold;
+  text-align: center;
+}
+
+h1,h2{
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
   }
 
-  h1 {
-    color: red;
-  }
+
+
+td{
+  text-align: center;
+}
+
+th{
+  font-style: bold;
+}
+
+/* CSS Temps */
+
+
+.min5 {
+  height: 45px;
+}
+
+.min10 {
+  height: 30px;
+}
+
+.min15{
+  height: 45px;
+}
+
+.min20{
+  height: 30px;
+}
+
+.min25{
+  height: 45px;
+}
+
+.min30{
+  height: 30px;
+}
+
+.min35{
+  height: 45px;
+}
+
+.min40{
+  height: 30px;
+}
+
+.min45{
+  height: 45px;
+}
+
+.min50{
+  height: 30px;
+}
+
+.min55{
+  height: 45px;
+}
+
+/*Couleur des blocs de matières */
+
+.border{
+  border: 1px;
+}
+
+.repas{
+  color: red;
+}
+
+.certification{
+  background-color: #101f44;
+}
+
+.pause{
+  color: #ff1fff;
+}
+.rouge{
+  background-color: #b21a1a;
+}
+.orange{
+  background-color: #e09200;
+}
+
+.gris{
+  background-color: #C0C0C0;
+}
+
+.jaune{
+  background-color:#FFFF00;
+}
+
+.blue{
+  background-color: #36ccff;
+}
+
+.bleu{
+  background-color: #0b6381;
+}
+.marron{
+  background-color: #bcb141;
+}
+
+.rose{
+  background-color: #ff8ac4;
+}
+.mauve{
+  background-color: #590aa0;
+}
+
