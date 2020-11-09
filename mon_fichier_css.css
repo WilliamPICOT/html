@@ -4,6 +4,7 @@
 .time {
   border: -1px;
   vertical-align: top;
+  background-color: #C0C0C0;
   position: relative;
   top: 0px;
   font-weight:bold;
@@ -39,7 +40,7 @@ th{
 }
 
 .min15{
-  height: 45px;
+  height: 8px;
 }
 
 .min20{
